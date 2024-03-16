@@ -1,0 +1,92 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJS desde cero"
+        },
+        {
+          "nombre": "ReactJS desde cero"
+        },
+        {
+          "nombre": "VueJS desde cero"
+        }
+      ],
+      "id": "d854"
+    },
+    {
+      "id": "2d57",
+      "nombre": "Miguel",
+      "apellido": "Dev",
+      "materias": [
+        {
+          "nombre": "JS desde cero"
+        },
+        {
+          "nombre": "HTML desde cero"
+        }
+      ]
+    },
+    {
+      "id": "988d",
+      "nombre": "Miguel",
+      "apellido": "Dev",
+      "materias": [
+        {
+          "nombre": "JS desde cero"
+        },
+        {
+          "nombre": "HTML desde cero"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "fdb2"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "8a78"
+    },
+    {
+      "id": "b9cc"
+    },
+    {
+      "id": "8956"
+    },
+    {
+      "id": "966e",
+      "nombre": "Roxana",
+      "apellido": "Del Pozo",
+      "promedio": 9.2
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duración": 7,
+      "dificultad": "intermedia",
+      "id": "ec94"
+    },
+    {
+      "nombre": "ReactJS desde cero",
+      "duración": 8,
+      "dificultad": "intermedia",
+      "id": "474d"
+    },
+    {
+      "nombre": "VueJS desde cero",
+      "duración": 8,
+      "dificultad": "alta",
+      "id": "59d4"
+    }
+  ]
+}
